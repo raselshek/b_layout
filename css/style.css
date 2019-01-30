@@ -1,0 +1,33 @@
+.custom_bg{
+	background-color: pink;
+	padding: 40px 0;
+	margin-bottom: 10px;
+}
+.bgc{
+	background-color:#99D9EA;
+	min-height: 50px;
+	text-align: center;
+	margin-bottom: 10px;
+
+}
+.bdr_green{
+	border: 10px solid #22B14C;
+}
+.bdr_yellow{
+	border: 10px solid #B5E61D;
+}
+.bg_red{
+	background-color: #22B14C;
+	padding: 5px 0;
+}
+.red{
+	background-color: red;
+	min-height: 80px;
+}
+.mt{
+	margin-top: 10px;
+}
+.poin5{
+	min-height: 80px;
+	color:white;
+}
